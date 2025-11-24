@@ -1,0 +1,15 @@
+/Users/birdangneupane/RiderProjects/week5/Task2/bin/Debug/net9.0/Task2
+/Users/birdangneupane/RiderProjects/week5/Task2/bin/Debug/net9.0/Task2.deps.json
+/Users/birdangneupane/RiderProjects/week5/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/Users/birdangneupane/RiderProjects/week5/Task2/bin/Debug/net9.0/Task2.dll
+/Users/birdangneupane/RiderProjects/week5/Task2/bin/Debug/net9.0/Task2.pdb
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.dll
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/refint/Task2.dll
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.pdb
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/Users/birdangneupane/RiderProjects/week5/Task2/obj/Debug/net9.0/ref/Task2.dll
